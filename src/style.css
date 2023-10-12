@@ -1,0 +1,27 @@
+/*Importing Font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+.button {
+    background-color: #1A8CD8;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 22px;
+    border: none;
+    margin-left: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
